@@ -29,7 +29,7 @@ s = a +b
 |19-6-2018|Tristin|Python|
 
 
-###Inline HTML 
+### Inline HTML 
 
 <dl>
   <dt>Definition list</dt>
@@ -52,7 +52,7 @@ Underscore
 
 ### Line Breaks 
 
-Line 1 is seperated by astricks for *line2* *line3* *line4* 
+Line 1 is seperated by astricks for --line2* --*line3* --*line4* 
 
 
 ### Youtube Video 

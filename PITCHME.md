@@ -1,8 +1,8 @@
 ---?image=assets/image/patrick-tomasso.jpg
 
-# Brick
+# DSR Project Presentation 
 
-### A GitPitch Presentation Template
+### D
 
 ---?image=assets/image/daniel-ghio.jpg
 
@@ -16,10 +16,11 @@
 
 ---?image=assets/image/daniel-ghio.jpg
 
-## Template Features
+## Class Topics 
 
-- Code Presenting |
-- Repo Source, Static Blocks, GIST |
+- Git Training |
+- Git Pitch Training |
+- Master Class Python.. My Python, GIST |
 - Custom CSS Styling |
 - Slideshow Background Image |
 - Slide-specific Background Images |
